@@ -1,6 +1,12 @@
 ![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
-<h1 align="center">Hi 👋, I'm Dhanush A</h1>
-<h3 align="center">A passionate fullstack MERN developer from India</h3>  
+
+<h1 align="center">
+  
+Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Dhanush !
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Full+stack+developer;Competitive+Programmer;Find+me+at+127.0.0.1)](https://git.io/typing-svg)
+</h1> 
+ 
 <img align = "right"  width = "400" alt= "Coding" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN1OTR1dGticW93Mjh5ZGR2anQ1YTYzdnQ4YnJ2czJsZzBkd2c3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
 
 
